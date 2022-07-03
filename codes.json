@@ -1,5 +1,1 @@
-[{
-"code": 1,
-"desc": "testes",
-"api": "checkout-api"
-}]
+[{"code":1,"desc":"testes","api":"checkout-api"},{"code":2,"desc":"testes2","api":"checkin-api"}]
